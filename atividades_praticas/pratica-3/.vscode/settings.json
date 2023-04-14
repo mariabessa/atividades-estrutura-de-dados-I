@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dtime.h": "c",
+        "string.h": "c"
+    }
+}
